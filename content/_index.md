@@ -1,3 +1,3 @@
 ### Fariqussalam, Software Engineer based in Jakarta, Indonesia
 
-[Resume] ( {{< relref "/resume.pdf" >}})
+<a href="resume.pdf" target="_blank">Resume</a>
